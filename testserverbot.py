@@ -49,4 +49,4 @@ async def on_message(message):
         await message.channel.send(random.choice(chimpEventResponses))
 
 
-client.run('NzEzNTkwMTQ3MTg2NDI1ODg3.XsxRSA.SFgrMBcDkauySnbBi-ybZutdL0g6')
+client.run('(TOKEN GOES HERE)')
